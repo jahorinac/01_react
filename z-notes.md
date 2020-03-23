@@ -33,5 +33,10 @@ nauciti komande od react-router-dom:
 	<Switch>
 		<Route path='/' component={Dashboard} />
 	</Switch>
+	
+6.LESSON Project summary
+
+
+7.LESSON
 
 
