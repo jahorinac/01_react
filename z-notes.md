@@ -51,6 +51,19 @@
     5:50                
     Izuciti proslijedjivanje props parametra (parametar is url-a)
     i prosljedjivanja parametra u stranicu <span>Project Title - {id}</span>
+    
+8.LESSON
+
+    Vidjeti React metod setState() i state()
+    
+    Ispitati [] zagrade u propertiju objekta
+    
+    onChange={} kako funkciomise u template-u
+    
+    e.preventDefault(); - vidjeti
+    
+    !!!!Probati .scss direktno ubaciti
+    
                    
                    
  
