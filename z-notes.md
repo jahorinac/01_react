@@ -72,6 +72,22 @@
 
     CSS animacija input polja (interesantna animacija)
 
+11.LESSON 
+    
+    Redux and reducer
+    React-redux - Added <Provider store={store}></Provider>
+    
+12.LESSON 
+
+    Dammy data
+    
+    map() - metoda kod objekta sta znaci
+    
+    React - prouciti state objekat i this.props;
+    
+    React-redux - connect() mapStateToProps()
+    
+    redux - prouciti createStore(), combineReducers() 
        
                    
                    
