@@ -87,7 +87,19 @@
     
     React-redux - connect() mapStateToProps()
     
-    redux - prouciti createStore(), combineReducers() 
+    redux - prouciti createStore(), combineReducers()
+    
+13.LESSON
+
+    Objasnjenje asinhronih podataka i redux-a
+    
+14.LESSON
+    
+    npm install redux-thunk
+    
+    redux - ispitti applyMiddleware()
+    
+    mapDispatchToProps, dispatch(), action objekat
        
                    
                    
