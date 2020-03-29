@@ -100,6 +100,12 @@
     redux - ispitti applyMiddleware()
     
     mapDispatchToProps, dispatch(), action objekat
+    
+
+
+17.LESSON
+    
+    !!!Error is on lesson 17 (from Firebase settings)
        
                    
                    
